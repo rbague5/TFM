@@ -1,0 +1,210 @@
+0.188400531254251,restaurantId
+0.15287238063939657,userId
+0.08120271641557353,Wheelchair Accessible
+0.07825001080311897,Mediterranean
+0.07781141081721019,Takeout
+0.07630141217141918,Wine and Beer
+0.0705373449725853,Outdoor Seating
+0.06898049919150169,Television
+0.06819161652031175,European
+0.06661429709385445,Drinks
+0.06631662025312014,Free Wifi
+0.0661342978457594,Late Night
+0.06384971617758532,Highchairs Available
+0.051321236833814274,Spanish
+0.049500927148666496,Accepts Credit Cards
+0.036413793758462064,Seafood
+0.035608359395314704,Full Bar
+0.03349524463844823,Vegan Options
+0.027886513335738553,Accepts American Express
+0.02772682063588681,Digital Payments
+0.02746847822502098,Reservations
+0.026577307062853005,Accepts Visa
+0.024026434326314832,Breakfast
+0.023432134576119246,Healthy
+0.022845314456629996,Table Service
+0.022185608050741712,Steakhouse
+0.02203905962910311,Contemporary
+0.022022246283603976,Street Parking
+0.021690873240032358,min_range
+0.021532148569723682,Fusion
+0.020753015981682915,Accepts Mastercard
+0.020540469191993267,Validated Parking
+0.018791317580037912,Pizza
+0.018587952992631347,Gift Cards Available
+0.018444963405312636,Parking Available
+0.018155156106860006,Delivery
+0.017651229941050943,Italian
+0.017060868457583634,Brunch
+0.01648762575566531,Gluten Free Options
+0.0157987825021736,Seating
+0.015136575378588596,Mexican
+0.015097492503917174,Vegetarian Friendly
+0.015005124729825308,Asian
+0.012986907547065473,Cafe
+0.011967887503518817,Private Dining
+0.01145540439792248,Lunch
+0.01144604921429312,Serves Alcohol
+0.009256401962479873,Dinner
+0.008970312582343315,Bar
+0.008701968265928367,American
+0.008316769576206447,Cash Only
+0.008285426069066012,Barbecue
+0.007811601675807948,Free off-street parking
+0.007486074050226894,Pub
+0.007080128756419368,Argentinean
+0.007054392353244082,Grill
+0.006653383481713233,Family style
+0.006449233187170326,Soups
+0.0060928554080115615,Latin
+0.0057796216857138455,Central American
+0.005584844539127711,Fast Food
+0.004461086099550355,Indian
+0.004442830083167264,Wine Bar
+0.0041627499704074014,Japanese
+0.004056904747246857,Sushi
+0.003999802655558379,Diner
+0.003931494683010706,Middle Eastern
+0.0037567960901108686,South American
+0.0031444500441907414,Southern-Italian
+0.0031444500441907414,Neapolitan
+0.0031444500441907414,Campania
+0.0031424486358724857,Sicilian
+0.002777048132684918,Thai
+0.002777048132684918,Malaysian
+0.002777048132684918,Filipino
+0.002702739300261836,Dog Friendly
+0.0024685924828463214,International
+0.0020897006200266345,Waterfront
+0.0016630114745864954,Non-smoking restaurants
+0.0015618047345563309,Beach
+0.0006524151821335405,Dining bars
+0.0006433641116739066,Jazz Bar
+0.0006433641116739066,Accepts Discover
+0.000576955207930484,Brew Pub
+0.0005118515005168324,French
+0.0003971427810745433,Buffet
+0.00028731311670041163,German
+0.00025631092567328915,Peruvian
+0.00016291404965616197,Street Food
+0.00010140144797894051,max_range
+9.825347048137488e-05,Playgrounds
+9.597180526443695e-05,Chinese
+8.352454252669746e-05,Deli
+5.115186571173136e-05,Central European
+2.9505695335786824e-06,Gastropub
+0.0,Yunnan
+0.0,Xinjiang
+0.0,Welsh
+0.0,Vietnamese
+0.0,Venezuelan
+0.0,Valet Parking
+0.0,Uzbek
+0.0,Ukrainian
+0.0,Tuscan
+0.0,Turkish
+0.0,Tunisian
+0.0,Tibetan
+0.0,Taiwanese
+0.0,Swiss
+0.0,Swedish
+0.0,Sri Lankan
+0.0,Sports bars
+0.0,Southwestern
+0.0,Slovenian
+0.0,Singaporean
+0.0,Shojin
+0.0,Scottish
+0.0,Scandinavian
+0.0,Sardinian
+0.0,Salvadoran
+0.0,Russian
+0.0,Romanian
+0.0,Romana
+0.0,Romagna
+0.0,Puerto Rican
+0.0,Portuguese
+0.0,Polynesian
+0.0,Polish
+0.0,Persian
+0.0,Pakistani
+0.0,Norwegian
+0.0,Northern-Italian
+0.0,Nigerian
+0.0,New Zealand
+0.0,Nepali
+0.0,Native American
+0.0,Moroccan
+0.0,Mongolian
+0.0,Medicinal foods
+0.0,Lombard
+0.0,Live Music
+0.0,Ligurian
+0.0,Lebanese
+0.0,Lazio
+0.0,Latvian
+0.0,Kyushu cuisine
+0.0,Kyoto cuisine
+0.0,Kosher
+0.0,Korean
+0.0,Kappo
+0.0,Kaiseki
+0.0,Japanese sweets parlour
+0.0,Japanese Fusion
+0.0,Jamaican
+0.0,Israeli
+0.0,Irish
+0.0,Indonesian
+0.0,Hungarian
+0.0,Hokkaido cuisine
+0.0,Hawaiian
+0.0,Halal
+0.0,Guatemalan
+0.0,Greek
+0.0,Georgian
+0.0,Fujian
+0.0,Fruit parlours
+0.0,Ethiopian
+0.0,Emilian
+0.0,Egyptian
+0.0,Ecuadorean
+0.0,Eastern European
+0.0,Dutch
+0.0,Drive Thru
+0.0,Danish
+0.0,Czech
+0.0,Cuban
+0.0,Croatian
+0.0,Costa Rican
+0.0,Colombian
+0.0,Chilean
+0.0,Central-Italian
+0.0,Central Asian
+0.0,Caucasian
+0.0,Catalan
+0.0,Caribbean
+0.0,Canadian
+0.0,Cambodian
+0.0,Calabrian
+0.0,Cajun & Creole
+0.0,Burmese
+0.0,British
+0.0,Brazilian
+0.0,Belgian
+0.0,Beijing cuisine
+0.0,Beer restaurants
+0.0,Bangladeshi
+0.0,Balti
+0.0,Bahamian
+0.0,BYOB
+0.0,Azerbaijani
+0.0,Austrian
+0.0,Australian
+0.0,Assyrian
+0.0,Armenian
+0.0,Arabic
+0.0,Apulian
+0.0,Algerian
+0.0,Albanian
+0.0,African
+0.0,Afghani
